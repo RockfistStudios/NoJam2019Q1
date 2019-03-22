@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 20bb1051ea68a3a4182d26e349dfa593
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Centerlightshield1
+    100002: Centersphere
+    100004: group1
+    100006: Leftlightshield3
+    100008: Leftlightshield4
+    100010: polySurface50
+    100012: polySurface74
+    100014: polySurface75
+    100016: polySurface76
+    100018: polySurface77
+    100020: polySurface78
+    100022: Rightlightshield3
+    100024: Rightlightshield4
+    100026: //RootNode
+    100028: Shieldbody
+    100030: transform1
+    100032: Shield lvl 1 part
+    100034: Shield lvl 2 part
+    100036: Shield lvl 3 part
+    400000: Centerlightshield1
+    400002: Centersphere
+    400004: group1
+    400006: Leftlightshield3
+    400008: Leftlightshield4
+    400010: polySurface50
+    400012: polySurface74
+    400014: polySurface75
+    400016: polySurface76
+    400018: polySurface77
+    400020: polySurface78
+    400022: Rightlightshield3
+    400024: Rightlightshield4
+    400026: //RootNode
+    400028: Shieldbody
+    400030: transform1
+    400032: Shield lvl 1 part
+    400034: Shield lvl 2 part
+    400036: Shield lvl 3 part
+    2100000: phong1
+    2100002: phong2
+    2100004: lambert1
+    2100006: 'Material #85'
+    2300000: Centerlightshield1
+    2300002: Centersphere
+    2300004: Leftlightshield4
+    2300006: polySurface75
+    2300008: polySurface76
+    2300010: polySurface77
+    2300012: polySurface78
+    2300014: Rightlightshield3
+    2300016: Rightlightshield4
+    2300018: Shieldbody
+    2300020: //RootNode
+    2300022: Shield lvl 1 part
+    2300024: Shield lvl 2 part
+    2300026: Shield lvl 3 part
+    3300000: Centerlightshield1
+    3300002: Centersphere
+    3300004: Leftlightshield4
+    3300006: polySurface75
+    3300008: polySurface76
+    3300010: polySurface77
+    3300012: polySurface78
+    3300014: Rightlightshield3
+    3300016: Rightlightshield4
+    3300018: Shieldbody
+    3300020: //RootNode
+    3300022: Shield lvl 1 part
+    3300024: Shield lvl 2 part
+    3300026: Shield lvl 3 part
+    4300000: Shieldbody
+    4300002: Centersphere
+    4300004: Rightlightshield3
+    4300006: Rightlightshield4
+    4300008: Centerlightshield1
+    4300010: polySurface75
+    4300012: polySurface76
+    4300014: polySurface77
+    4300016: polySurface78
+    4300018: Leftlightshield4
+    4300020: Shield lvl 2 part
+    4300022: Shield lvl 3 part
+    4300024: Shield lvl 1 part
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 132
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
